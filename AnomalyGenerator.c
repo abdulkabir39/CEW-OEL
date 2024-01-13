@@ -13,7 +13,7 @@ void checkAndLogAnomalies(WeatherData *data, int numDays) {
     fprintf(logFile, "\nAnomaly Log:\n\n");
 
     for (int i = 0; i < numDays; ++i) {
-    	if (data[i].humidity >= 70 || data[i].humidity <= 30 || data[i].windspeed >= 25){
+    	if (data[i].humidity >= 65 || data[i].humidity <= 30 || data[i].windspeed >= 25){
 		fprintf(logFile, "Date: %s\n", data[i].datetime);
 		
 		if (data[i].humidity >= 70){

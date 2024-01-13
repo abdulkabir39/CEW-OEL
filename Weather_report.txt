@@ -1,0 +1,142 @@
+Weather Report
+   Date        Temp       WindSpeed     Humidity    	Description
+2024-01-13     18.8         18.7          56.7       Clear conditions throughout the day.
+2024-01-14     22.0         17.6          74.8       Clearing in the afternoon.
+2024-01-15     22.0         20.9          77.5       Partly cloudy throughout the day.
+2024-01-16     22.5         22.7          83.6       Partly cloudy throughout the day.
+2024-01-17     22.5         15.5          80.8       Clearing in the afternoon.
+2024-01-18     23.4         15.5          44.5       Clear conditions throughout the day.
+2024-01-19     23.1         15.1          38.7       Clear conditions throughout the day.
+2024-01-20     22.5         19.1          55.3       Becoming cloudy in the afternoon.
+2024-01-21     22.8         18.7          63.9       Clear conditions throughout the day.
+2024-01-22     22.5         17.3          51.5       Clear conditions throughout the day.
+2024-01-23     22.0         14.0          61.7       Clear conditions throughout the day.
+2024-01-24     21.8         21.2          62.8       Partly cloudy throughout the day.
+2024-01-25     22.4         25.9          73.5       Clear conditions throughout the day.
+2024-01-26     22.0         17.6          58.1       Partly cloudy throughout the day.
+2024-01-27     21.6         19.4          64.6       Clear conditions throughout the day.
+2024-01-13     18.8         18.7          56.7       Clear conditions throughout the day.
+2024-01-14     22.0         17.6          74.8       Clearing in the afternoon.
+2024-01-15     22.0         20.9          77.5       Partly cloudy throughout the day.
+2024-01-16     22.5         22.7          83.6       Partly cloudy throughout the day.
+2024-01-17     22.5         15.5          80.8       Clearing in the afternoon.
+2024-01-18     23.4         15.5          44.5       Clear conditions throughout the day.
+2024-01-19     23.1         15.1          38.7       Clear conditions throughout the day.
+2024-01-20     22.5         19.1          55.3       Becoming cloudy in the afternoon.
+2024-01-21     22.8         18.7          63.9       Clear conditions throughout the day.
+2024-01-22     22.5         17.3          51.5       Clear conditions throughout the day.
+2024-01-23     22.0         14.0          61.7       Clear conditions throughout the day.
+2024-01-24     21.8         21.2          62.8       Partly cloudy throughout the day.
+2024-01-25     22.4         25.9          73.5       Clear conditions throughout the day.
+2024-01-26     22.0         17.6          58.1       Partly cloudy throughout the day.
+2024-01-27     21.6         19.4          64.6       Clear conditions throughout the day.
+2024-01-13     18.8         18.7          56.7       Clear conditions throughout the day.
+2024-01-14     22.0         17.6          74.8       Clearing in the afternoon.
+2024-01-15     22.0         20.9          77.5       Partly cloudy throughout the day.
+2024-01-16     22.5         22.7          83.6       Partly cloudy throughout the day.
+2024-01-17     22.5         15.5          80.8       Clearing in the afternoon.
+2024-01-18     23.4         15.5          44.5       Clear conditions throughout the day.
+2024-01-19     23.1         15.1          38.7       Clear conditions throughout the day.
+2024-01-20     22.5         19.1          55.3       Becoming cloudy in the afternoon.
+2024-01-21     22.8         18.7          63.9       Clear conditions throughout the day.
+2024-01-22     22.5         17.3          51.5       Clear conditions throughout the day.
+2024-01-23     22.0         14.0          61.7       Clear conditions throughout the day.
+2024-01-24     21.8         21.2          62.8       Partly cloudy throughout the day.
+2024-01-25     22.4         25.9          73.5       Clear conditions throughout the day.
+2024-01-26     22.0         17.6          58.1       Partly cloudy throughout the day.
+2024-01-27     21.6         19.4          64.6       Clear conditions throughout the day.
+2024-01-13     18.8         18.7          56.7       Clear conditions throughout the day.
+2024-01-14     22.0         17.6          74.8       Clearing in the afternoon.
+2024-01-15     22.0         20.9          77.5       Partly cloudy throughout the day.
+2024-01-16     22.5         22.7          83.6       Partly cloudy throughout the day.
+2024-01-17     22.5         15.5          80.8       Clearing in the afternoon.
+2024-01-18     23.4         15.5          44.5       Clear conditions throughout the day.
+2024-01-19     23.1         15.1          38.7       Clear conditions throughout the day.
+2024-01-20     22.5         19.1          55.3       Becoming cloudy in the afternoon.
+2024-01-21     22.8         18.7          63.9       Clear conditions throughout the day.
+2024-01-22     22.5         17.3          51.5       Clear conditions throughout the day.
+2024-01-23     22.0         14.0          61.7       Clear conditions throughout the day.
+2024-01-24     21.8         21.2          62.8       Partly cloudy throughout the day.
+2024-01-25     22.4         25.9          73.5       Clear conditions throughout the day.
+2024-01-26     22.0         17.6          58.1       Partly cloudy throughout the day.
+2024-01-27     21.6         19.4          64.6       Clear conditions throughout the day.
+2024-01-13     18.8         18.4          55.9       Clear conditions throughout the day.
+2024-01-14     22.0         17.6          74.8       Clearing in the afternoon.
+2024-01-15     22.0         20.9          77.5       Partly cloudy throughout the day.
+2024-01-16     22.5         22.7          83.6       Partly cloudy throughout the day.
+2024-01-17     22.5         15.5          80.8       Clearing in the afternoon.
+2024-01-18     23.4         15.5          44.5       Clear conditions throughout the day.
+2024-01-19     23.1         15.1          38.7       Clear conditions throughout the day.
+2024-01-20     22.5         19.1          55.3       Becoming cloudy in the afternoon.
+2024-01-21     22.8         18.7          63.9       Clear conditions throughout the day.
+2024-01-22     22.5         17.3          51.5       Clear conditions throughout the day.
+2024-01-23     22.0         14.0          61.7       Clear conditions throughout the day.
+2024-01-24     21.8         21.2          62.8       Partly cloudy throughout the day.
+2024-01-25     22.4         25.9          73.5       Clear conditions throughout the day.
+2024-01-26     22.0         17.6          58.1       Partly cloudy throughout the day.
+2024-01-27     21.6         19.4          64.6       Clear conditions throughout the day.
+2024-01-13     18.8         18.4          55.9       Clear conditions throughout the day.
+2024-01-14     22.0         17.6          74.8       Clearing in the afternoon.
+2024-01-15     22.0         20.9          77.5       Partly cloudy throughout the day.
+2024-01-16     22.5         22.7          83.6       Partly cloudy throughout the day.
+2024-01-17     22.5         15.5          80.8       Clearing in the afternoon.
+2024-01-18     23.4         15.5          44.5       Clear conditions throughout the day.
+2024-01-19     23.1         15.1          38.7       Clear conditions throughout the day.
+2024-01-20     22.5         19.1          55.3       Becoming cloudy in the afternoon.
+2024-01-21     22.8         18.7          63.9       Clear conditions throughout the day.
+2024-01-22     22.5         17.3          51.5       Clear conditions throughout the day.
+2024-01-23     22.0         14.0          61.7       Clear conditions throughout the day.
+2024-01-24     21.8         21.2          62.8       Partly cloudy throughout the day.
+2024-01-25     22.4         25.9          73.5       Clear conditions throughout the day.
+2024-01-26     22.0         17.6          58.1       Partly cloudy throughout the day.
+2024-01-27     21.6         19.4          64.6       Clear conditions throughout the day.
+2024-01-13     18.7         18.4          56.0       Clear conditions throughout the day.
+2024-01-14     22.0         17.6          74.8       Clearing in the afternoon.
+2024-01-15     22.0         20.9          77.5       Partly cloudy throughout the day.
+2024-01-16     22.5         22.7          83.6       Partly cloudy throughout the day.
+2024-01-17     22.5         15.5          80.8       Clearing in the afternoon.
+2024-01-18     23.4         15.5          44.5       Clear conditions throughout the day.
+2024-01-19     23.1         15.1          38.7       Clear conditions throughout the day.
+2024-01-20     22.5         19.1          55.3       Becoming cloudy in the afternoon.
+2024-01-21     22.8         18.7          63.9       Clear conditions throughout the day.
+2024-01-22     22.5         17.3          51.5       Clear conditions throughout the day.
+2024-01-23     22.0         14.0          61.7       Clear conditions throughout the day.
+2024-01-24     21.8         21.2          62.8       Partly cloudy throughout the day.
+2024-01-25     22.4         25.9          73.5       Clear conditions throughout the day.
+2024-01-26     22.0         17.6          58.1       Partly cloudy throughout the day.
+2024-01-27     21.6         19.4          64.6       Clear conditions throughout the day.
+2024-01-13     18.7         18.4          56.0       Clear conditions throughout the day.
+2024-01-14     22.0         17.6          74.8       Clearing in the afternoon.
+2024-01-15     22.0         20.9          77.5       Partly cloudy throughout the day.
+2024-01-16     22.5         22.7          83.6       Partly cloudy throughout the day.
+2024-01-17     22.5         15.5          80.8       Clearing in the afternoon.
+2024-01-18     23.4         15.5          44.5       Clear conditions throughout the day.
+2024-01-19     23.1         15.1          38.7       Clear conditions throughout the day.
+2024-01-20     22.5         19.1          55.3       Becoming cloudy in the afternoon.
+2024-01-21     22.8         18.7          63.9       Clear conditions throughout the day.
+2024-01-22     22.5         17.3          51.5       Clear conditions throughout the day.
+2024-01-23     22.0         14.0          61.7       Clear conditions throughout the day.
+2024-01-24     21.8         21.2          62.8       Partly cloudy throughout the day.
+2024-01-25     22.4         25.9          73.5       Clear conditions throughout the day.
+2024-01-26     22.0         17.6          58.1       Partly cloudy throughout the day.
+2024-01-27     21.6         19.4          64.6       Clear conditions throughout the day.
+2024-01-13     18.7         18.4          56.0       Clear conditions throughout the day.
+2024-01-14     22.0         17.6          74.8       Clearing in the afternoon.
+2024-01-15     22.0         20.9          77.5       Partly cloudy throughout the day.
+2024-01-16     22.5         22.7          83.6       Partly cloudy throughout the day.
+2024-01-17     22.5         15.5          80.8       Clearing in the afternoon.
+2024-01-18     23.4         15.5          44.5       Clear conditions throughout the day.
+2024-01-19     23.1         15.1          38.7       Clear conditions throughout the day.
+2024-01-20     22.5         19.1          55.3       Becoming cloudy in the afternoon.
+2024-01-21     22.8         18.7          63.9       Clear conditions throughout the day.
+2024-01-22     22.5         17.3          51.5       Clear conditions throughout the day.
+2024-01-23     22.0         14.0          61.7       Clear conditions throughout the day.
+2024-01-24     21.8         21.2          62.8       Partly cloudy throughout the day.
+2024-01-25     22.4         25.9          73.5       Clear conditions throughout the day.
+2024-01-26     22.0         17.6          58.1       Partly cloudy throughout the day.
+2024-01-27     21.6         19.4          64.6       Clear conditions throughout the day.
+
+Averages:
+Temp: 22.12
+WindSpeed: 18.60
+Humidity: 63.17

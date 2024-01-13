@@ -1,0 +1,179 @@
+
+Anomaly Log:
+
+Date: 2024-01-14
+   Humidity: 74.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-15
+   Humidity: 77.50 - Very humid, lots of moisture in the air
+
+Date: 2024-01-16
+   Humidity: 83.60 - Very humid, lots of moisture in the air
+
+Date: 2024-01-17
+   Humidity: 80.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-25
+   Humidity: 73.50 - Very humid, lots of moisture in the air
+   Windspeed: 25.90 - Very Windy weather
+
+Date: 2024-01-14
+   Humidity: 74.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-15
+   Humidity: 77.50 - Very humid, lots of moisture in the air
+
+Date: 2024-01-16
+   Humidity: 83.60 - Very humid, lots of moisture in the air
+
+Date: 2024-01-17
+   Humidity: 80.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-25
+   Humidity: 73.50 - Very humid, lots of moisture in the air
+   Windspeed: 25.90 - Very Windy weather
+
+Date: 2024-01-14
+   Humidity: 74.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-15
+   Humidity: 77.50 - Very humid, lots of moisture in the air
+
+Date: 2024-01-16
+   Humidity: 83.60 - Very humid, lots of moisture in the air
+
+Date: 2024-01-17
+   Humidity: 80.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-25
+   Humidity: 73.50 - Very humid, lots of moisture in the air
+   Windspeed: 25.90 - Very Windy weather
+
+Date: 2024-01-14
+   Humidity: 74.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-15
+   Humidity: 77.50 - Very humid, lots of moisture in the air
+
+Date: 2024-01-16
+   Humidity: 83.60 - Very humid, lots of moisture in the air
+
+Date: 2024-01-17
+   Humidity: 80.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-25
+   Humidity: 73.50 - Very humid, lots of moisture in the air
+   Windspeed: 25.90 - Very Windy weather
+
+Date: 2024-01-14
+   Humidity: 74.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-15
+   Humidity: 77.50 - Very humid, lots of moisture in the air
+
+Date: 2024-01-16
+   Humidity: 83.60 - Very humid, lots of moisture in the air
+
+Date: 2024-01-17
+   Humidity: 80.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-25
+   Humidity: 73.50 - Very humid, lots of moisture in the air
+   Windspeed: 25.90 - Very Windy weather
+
+Date: 2024-01-14
+   Humidity: 74.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-15
+   Humidity: 77.50 - Very humid, lots of moisture in the air
+
+Date: 2024-01-16
+   Humidity: 83.60 - Very humid, lots of moisture in the air
+
+Date: 2024-01-17
+   Humidity: 80.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-25
+   Humidity: 73.50 - Very humid, lots of moisture in the air
+   Windspeed: 25.90 - Very Windy weather
+
+Date: 2024-01-14
+   Humidity: 74.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-15
+   Humidity: 77.50 - Very humid, lots of moisture in the air
+
+Date: 2024-01-16
+   Humidity: 83.60 - Very humid, lots of moisture in the air
+
+Date: 2024-01-17
+   Humidity: 80.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-25
+   Humidity: 73.50 - Very humid, lots of moisture in the air
+   Windspeed: 25.90 - Very Windy weather
+
+Date: 2024-01-14
+   Humidity: 74.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-15
+   Humidity: 77.50 - Very humid, lots of moisture in the air
+
+Date: 2024-01-16
+   Humidity: 83.60 - Very humid, lots of moisture in the air
+
+Date: 2024-01-17
+   Humidity: 80.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-25
+   Humidity: 73.50 - Very humid, lots of moisture in the air
+   Windspeed: 25.90 - Very Windy weather
+
+Date: 2024-01-14
+   Humidity: 74.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-15
+   Humidity: 77.50 - Very humid, lots of moisture in the air
+
+Date: 2024-01-16
+   Humidity: 83.60 - Very humid, lots of moisture in the air
+
+Date: 2024-01-17
+   Humidity: 80.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-25
+   Humidity: 73.50 - Very humid, lots of moisture in the air
+   Windspeed: 25.90 - Very Windy weather
+
+Date: 2024-01-14
+   Humidity: 74.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-15
+   Humidity: 77.50 - Very humid, lots of moisture in the air
+
+Date: 2024-01-16
+   Humidity: 83.60 - Very humid, lots of moisture in the air
+
+Date: 2024-01-17
+   Humidity: 80.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-25
+   Humidity: 73.50 - Very humid, lots of moisture in the air
+   Windspeed: 25.90 - Very Windy weather
+
+Date: 2024-01-14
+   Humidity: 74.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-15
+   Humidity: 77.50 - Very humid, lots of moisture in the air
+
+Date: 2024-01-16
+   Humidity: 83.60 - Very humid, lots of moisture in the air
+
+Date: 2024-01-17
+   Humidity: 80.80 - Very humid, lots of moisture in the air
+
+Date: 2024-01-25
+   Humidity: 73.50 - Very humid, lots of moisture in the air
+   Windspeed: 25.90 - Very Windy weather
+

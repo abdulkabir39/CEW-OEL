@@ -1,0 +1,993 @@
+{
+	"result":	[{
+			"datetime":	"2024-01-13",
+			"temp":	18.8,
+			"windspeed":	18.7,
+			"humidity":	56.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-14",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	74.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-15",
+			"temp":	22,
+			"windspeed":	20.9,
+			"humidity":	77.5,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-16",
+			"temp":	22.5,
+			"windspeed":	22.7,
+			"humidity":	83.6,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-17",
+			"temp":	22.5,
+			"windspeed":	15.5,
+			"humidity":	80.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-18",
+			"temp":	23.4,
+			"windspeed":	15.5,
+			"humidity":	44.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-19",
+			"temp":	23.1,
+			"windspeed":	15.1,
+			"humidity":	38.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-20",
+			"temp":	22.5,
+			"windspeed":	19.1,
+			"humidity":	55.3,
+			"description":	"Becoming cloudy in the afternoon."
+		}, {
+			"datetime":	"2024-01-21",
+			"temp":	22.8,
+			"windspeed":	18.7,
+			"humidity":	63.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-22",
+			"temp":	22.5,
+			"windspeed":	17.3,
+			"humidity":	51.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-23",
+			"temp":	22,
+			"windspeed":	14,
+			"humidity":	61.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-24",
+			"temp":	21.8,
+			"windspeed":	21.2,
+			"humidity":	62.8,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-25",
+			"temp":	22.4,
+			"windspeed":	25.9,
+			"humidity":	73.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-26",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	58.1,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-27",
+			"temp":	21.6,
+			"windspeed":	19.4,
+			"humidity":	64.6,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-13",
+			"temp":	18.8,
+			"windspeed":	18.7,
+			"humidity":	56.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-14",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	74.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-15",
+			"temp":	22,
+			"windspeed":	20.9,
+			"humidity":	77.5,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-16",
+			"temp":	22.5,
+			"windspeed":	22.7,
+			"humidity":	83.6,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-17",
+			"temp":	22.5,
+			"windspeed":	15.5,
+			"humidity":	80.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-18",
+			"temp":	23.4,
+			"windspeed":	15.5,
+			"humidity":	44.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-19",
+			"temp":	23.1,
+			"windspeed":	15.1,
+			"humidity":	38.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-20",
+			"temp":	22.5,
+			"windspeed":	19.1,
+			"humidity":	55.3,
+			"description":	"Becoming cloudy in the afternoon."
+		}, {
+			"datetime":	"2024-01-21",
+			"temp":	22.8,
+			"windspeed":	18.7,
+			"humidity":	63.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-22",
+			"temp":	22.5,
+			"windspeed":	17.3,
+			"humidity":	51.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-23",
+			"temp":	22,
+			"windspeed":	14,
+			"humidity":	61.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-24",
+			"temp":	21.8,
+			"windspeed":	21.2,
+			"humidity":	62.8,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-25",
+			"temp":	22.4,
+			"windspeed":	25.9,
+			"humidity":	73.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-26",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	58.1,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-27",
+			"temp":	21.6,
+			"windspeed":	19.4,
+			"humidity":	64.6,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-13",
+			"temp":	18.8,
+			"windspeed":	18.7,
+			"humidity":	56.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-14",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	74.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-15",
+			"temp":	22,
+			"windspeed":	20.9,
+			"humidity":	77.5,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-16",
+			"temp":	22.5,
+			"windspeed":	22.7,
+			"humidity":	83.6,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-17",
+			"temp":	22.5,
+			"windspeed":	15.5,
+			"humidity":	80.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-18",
+			"temp":	23.4,
+			"windspeed":	15.5,
+			"humidity":	44.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-19",
+			"temp":	23.1,
+			"windspeed":	15.1,
+			"humidity":	38.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-20",
+			"temp":	22.5,
+			"windspeed":	19.1,
+			"humidity":	55.3,
+			"description":	"Becoming cloudy in the afternoon."
+		}, {
+			"datetime":	"2024-01-21",
+			"temp":	22.8,
+			"windspeed":	18.7,
+			"humidity":	63.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-22",
+			"temp":	22.5,
+			"windspeed":	17.3,
+			"humidity":	51.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-23",
+			"temp":	22,
+			"windspeed":	14,
+			"humidity":	61.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-24",
+			"temp":	21.8,
+			"windspeed":	21.2,
+			"humidity":	62.8,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-25",
+			"temp":	22.4,
+			"windspeed":	25.9,
+			"humidity":	73.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-26",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	58.1,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-27",
+			"temp":	21.6,
+			"windspeed":	19.4,
+			"humidity":	64.6,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-13",
+			"temp":	18.8,
+			"windspeed":	18.7,
+			"humidity":	56.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-14",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	74.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-15",
+			"temp":	22,
+			"windspeed":	20.9,
+			"humidity":	77.5,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-16",
+			"temp":	22.5,
+			"windspeed":	22.7,
+			"humidity":	83.6,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-17",
+			"temp":	22.5,
+			"windspeed":	15.5,
+			"humidity":	80.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-18",
+			"temp":	23.4,
+			"windspeed":	15.5,
+			"humidity":	44.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-19",
+			"temp":	23.1,
+			"windspeed":	15.1,
+			"humidity":	38.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-20",
+			"temp":	22.5,
+			"windspeed":	19.1,
+			"humidity":	55.3,
+			"description":	"Becoming cloudy in the afternoon."
+		}, {
+			"datetime":	"2024-01-21",
+			"temp":	22.8,
+			"windspeed":	18.7,
+			"humidity":	63.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-22",
+			"temp":	22.5,
+			"windspeed":	17.3,
+			"humidity":	51.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-23",
+			"temp":	22,
+			"windspeed":	14,
+			"humidity":	61.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-24",
+			"temp":	21.8,
+			"windspeed":	21.2,
+			"humidity":	62.8,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-25",
+			"temp":	22.4,
+			"windspeed":	25.9,
+			"humidity":	73.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-26",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	58.1,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-27",
+			"temp":	21.6,
+			"windspeed":	19.4,
+			"humidity":	64.6,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-13",
+			"temp":	18.8,
+			"windspeed":	18.4,
+			"humidity":	55.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-14",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	74.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-15",
+			"temp":	22,
+			"windspeed":	20.9,
+			"humidity":	77.5,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-16",
+			"temp":	22.5,
+			"windspeed":	22.7,
+			"humidity":	83.6,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-17",
+			"temp":	22.5,
+			"windspeed":	15.5,
+			"humidity":	80.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-18",
+			"temp":	23.4,
+			"windspeed":	15.5,
+			"humidity":	44.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-19",
+			"temp":	23.1,
+			"windspeed":	15.1,
+			"humidity":	38.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-20",
+			"temp":	22.5,
+			"windspeed":	19.1,
+			"humidity":	55.3,
+			"description":	"Becoming cloudy in the afternoon."
+		}, {
+			"datetime":	"2024-01-21",
+			"temp":	22.8,
+			"windspeed":	18.7,
+			"humidity":	63.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-22",
+			"temp":	22.5,
+			"windspeed":	17.3,
+			"humidity":	51.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-23",
+			"temp":	22,
+			"windspeed":	14,
+			"humidity":	61.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-24",
+			"temp":	21.8,
+			"windspeed":	21.2,
+			"humidity":	62.8,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-25",
+			"temp":	22.4,
+			"windspeed":	25.9,
+			"humidity":	73.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-26",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	58.1,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-27",
+			"temp":	21.6,
+			"windspeed":	19.4,
+			"humidity":	64.6,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-13",
+			"temp":	18.8,
+			"windspeed":	18.4,
+			"humidity":	55.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-14",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	74.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-15",
+			"temp":	22,
+			"windspeed":	20.9,
+			"humidity":	77.5,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-16",
+			"temp":	22.5,
+			"windspeed":	22.7,
+			"humidity":	83.6,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-17",
+			"temp":	22.5,
+			"windspeed":	15.5,
+			"humidity":	80.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-18",
+			"temp":	23.4,
+			"windspeed":	15.5,
+			"humidity":	44.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-19",
+			"temp":	23.1,
+			"windspeed":	15.1,
+			"humidity":	38.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-20",
+			"temp":	22.5,
+			"windspeed":	19.1,
+			"humidity":	55.3,
+			"description":	"Becoming cloudy in the afternoon."
+		}, {
+			"datetime":	"2024-01-21",
+			"temp":	22.8,
+			"windspeed":	18.7,
+			"humidity":	63.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-22",
+			"temp":	22.5,
+			"windspeed":	17.3,
+			"humidity":	51.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-23",
+			"temp":	22,
+			"windspeed":	14,
+			"humidity":	61.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-24",
+			"temp":	21.8,
+			"windspeed":	21.2,
+			"humidity":	62.8,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-25",
+			"temp":	22.4,
+			"windspeed":	25.9,
+			"humidity":	73.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-26",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	58.1,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-27",
+			"temp":	21.6,
+			"windspeed":	19.4,
+			"humidity":	64.6,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-13",
+			"temp":	18.7,
+			"windspeed":	18.4,
+			"humidity":	56,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-14",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	74.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-15",
+			"temp":	22,
+			"windspeed":	20.9,
+			"humidity":	77.5,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-16",
+			"temp":	22.5,
+			"windspeed":	22.7,
+			"humidity":	83.6,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-17",
+			"temp":	22.5,
+			"windspeed":	15.5,
+			"humidity":	80.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-18",
+			"temp":	23.4,
+			"windspeed":	15.5,
+			"humidity":	44.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-19",
+			"temp":	23.1,
+			"windspeed":	15.1,
+			"humidity":	38.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-20",
+			"temp":	22.5,
+			"windspeed":	19.1,
+			"humidity":	55.3,
+			"description":	"Becoming cloudy in the afternoon."
+		}, {
+			"datetime":	"2024-01-21",
+			"temp":	22.8,
+			"windspeed":	18.7,
+			"humidity":	63.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-22",
+			"temp":	22.5,
+			"windspeed":	17.3,
+			"humidity":	51.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-23",
+			"temp":	22,
+			"windspeed":	14,
+			"humidity":	61.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-24",
+			"temp":	21.8,
+			"windspeed":	21.2,
+			"humidity":	62.8,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-25",
+			"temp":	22.4,
+			"windspeed":	25.9,
+			"humidity":	73.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-26",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	58.1,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-27",
+			"temp":	21.6,
+			"windspeed":	19.4,
+			"humidity":	64.6,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-13",
+			"temp":	18.7,
+			"windspeed":	18.4,
+			"humidity":	56,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-14",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	74.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-15",
+			"temp":	22,
+			"windspeed":	20.9,
+			"humidity":	77.5,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-16",
+			"temp":	22.5,
+			"windspeed":	22.7,
+			"humidity":	83.6,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-17",
+			"temp":	22.5,
+			"windspeed":	15.5,
+			"humidity":	80.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-18",
+			"temp":	23.4,
+			"windspeed":	15.5,
+			"humidity":	44.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-19",
+			"temp":	23.1,
+			"windspeed":	15.1,
+			"humidity":	38.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-20",
+			"temp":	22.5,
+			"windspeed":	19.1,
+			"humidity":	55.3,
+			"description":	"Becoming cloudy in the afternoon."
+		}, {
+			"datetime":	"2024-01-21",
+			"temp":	22.8,
+			"windspeed":	18.7,
+			"humidity":	63.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-22",
+			"temp":	22.5,
+			"windspeed":	17.3,
+			"humidity":	51.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-23",
+			"temp":	22,
+			"windspeed":	14,
+			"humidity":	61.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-24",
+			"temp":	21.8,
+			"windspeed":	21.2,
+			"humidity":	62.8,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-25",
+			"temp":	22.4,
+			"windspeed":	25.9,
+			"humidity":	73.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-26",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	58.1,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-27",
+			"temp":	21.6,
+			"windspeed":	19.4,
+			"humidity":	64.6,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-13",
+			"temp":	18.7,
+			"windspeed":	18.4,
+			"humidity":	56,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-14",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	74.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-15",
+			"temp":	22,
+			"windspeed":	20.9,
+			"humidity":	77.5,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-16",
+			"temp":	22.5,
+			"windspeed":	22.7,
+			"humidity":	83.6,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-17",
+			"temp":	22.5,
+			"windspeed":	15.5,
+			"humidity":	80.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-18",
+			"temp":	23.4,
+			"windspeed":	15.5,
+			"humidity":	44.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-19",
+			"temp":	23.1,
+			"windspeed":	15.1,
+			"humidity":	38.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-20",
+			"temp":	22.5,
+			"windspeed":	19.1,
+			"humidity":	55.3,
+			"description":	"Becoming cloudy in the afternoon."
+		}, {
+			"datetime":	"2024-01-21",
+			"temp":	22.8,
+			"windspeed":	18.7,
+			"humidity":	63.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-22",
+			"temp":	22.5,
+			"windspeed":	17.3,
+			"humidity":	51.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-23",
+			"temp":	22,
+			"windspeed":	14,
+			"humidity":	61.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-24",
+			"temp":	21.8,
+			"windspeed":	21.2,
+			"humidity":	62.8,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-25",
+			"temp":	22.4,
+			"windspeed":	25.9,
+			"humidity":	73.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-26",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	58.1,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-27",
+			"temp":	21.6,
+			"windspeed":	19.4,
+			"humidity":	64.6,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-13",
+			"temp":	18.7,
+			"windspeed":	18.4,
+			"humidity":	56,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-14",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	74.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-15",
+			"temp":	22,
+			"windspeed":	20.9,
+			"humidity":	77.5,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-16",
+			"temp":	22.5,
+			"windspeed":	22.7,
+			"humidity":	83.6,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-17",
+			"temp":	22.5,
+			"windspeed":	15.5,
+			"humidity":	80.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-18",
+			"temp":	23.4,
+			"windspeed":	15.5,
+			"humidity":	44.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-19",
+			"temp":	23.1,
+			"windspeed":	15.1,
+			"humidity":	38.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-20",
+			"temp":	22.5,
+			"windspeed":	19.1,
+			"humidity":	55.3,
+			"description":	"Becoming cloudy in the afternoon."
+		}, {
+			"datetime":	"2024-01-21",
+			"temp":	22.8,
+			"windspeed":	18.7,
+			"humidity":	63.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-22",
+			"temp":	22.5,
+			"windspeed":	17.3,
+			"humidity":	51.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-23",
+			"temp":	22,
+			"windspeed":	14,
+			"humidity":	61.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-24",
+			"temp":	21.8,
+			"windspeed":	21.2,
+			"humidity":	62.8,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-25",
+			"temp":	22.4,
+			"windspeed":	25.9,
+			"humidity":	73.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-26",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	58.1,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-27",
+			"temp":	21.6,
+			"windspeed":	19.4,
+			"humidity":	64.6,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-13",
+			"temp":	18.7,
+			"windspeed":	18.4,
+			"humidity":	56,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-14",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	74.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-15",
+			"temp":	22,
+			"windspeed":	20.9,
+			"humidity":	77.5,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-16",
+			"temp":	22.5,
+			"windspeed":	22.7,
+			"humidity":	83.6,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-17",
+			"temp":	22.5,
+			"windspeed":	15.5,
+			"humidity":	80.8,
+			"description":	"Clearing in the afternoon."
+		}, {
+			"datetime":	"2024-01-18",
+			"temp":	23.4,
+			"windspeed":	15.5,
+			"humidity":	44.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-19",
+			"temp":	23.1,
+			"windspeed":	15.1,
+			"humidity":	38.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-20",
+			"temp":	22.5,
+			"windspeed":	19.1,
+			"humidity":	55.3,
+			"description":	"Becoming cloudy in the afternoon."
+		}, {
+			"datetime":	"2024-01-21",
+			"temp":	22.8,
+			"windspeed":	18.7,
+			"humidity":	63.9,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-22",
+			"temp":	22.5,
+			"windspeed":	17.3,
+			"humidity":	51.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-23",
+			"temp":	22,
+			"windspeed":	14,
+			"humidity":	61.7,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-24",
+			"temp":	21.8,
+			"windspeed":	21.2,
+			"humidity":	62.8,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-25",
+			"temp":	22.4,
+			"windspeed":	25.9,
+			"humidity":	73.5,
+			"description":	"Clear conditions throughout the day."
+		}, {
+			"datetime":	"2024-01-26",
+			"temp":	22,
+			"windspeed":	17.6,
+			"humidity":	58.1,
+			"description":	"Partly cloudy throughout the day."
+		}, {
+			"datetime":	"2024-01-27",
+			"temp":	21.6,
+			"windspeed":	19.4,
+			"humidity":	64.6,
+			"description":	"Clear conditions throughout the day."
+		}]
+}

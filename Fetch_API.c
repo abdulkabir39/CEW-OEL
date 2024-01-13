@@ -3,12 +3,7 @@
 #include <curl/curl.h>
 #include <cjson/cJSON.h>
 #include <string.h>
-
-
-struct MemoryStruct {
-    char *memory;
-    size_t size;
-};
+#include "Fetch_API.h" 
 
 // Save retrieved data to a Raw Data JSON file
 size_t write_callback(void *contents, size_t size, size_t nmemb, struct MemoryStruct *mem) {
@@ -83,4 +78,5 @@ int main() {
 	fclose(jsonFile);
     return 0;
 }
+
 
