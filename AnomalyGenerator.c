@@ -16,14 +16,14 @@ void checkAndLogAnomalies(WeatherData *data, int numDays) {
     	if (data[i].humidity >= 65 || data[i].humidity <= 30 || data[i].windspeed >= 25){
 		fprintf(logFile, "Date: %s\n", data[i].datetime);
 		
-		if (data[i].humidity >= 70){
-			fprintf(logFile, "   Humidity: %.2f - Very humid, lots of moisture in the air\n", data[i].humidity);
+		if (data[i].humidity >= 65){
+			fprintf(logFile, "   Humidity: %.2f - Humidity is at peak!\n", data[i].humidity);
 		} else if (data[i].humidity <= 30){
-			fprintf(logFile, "   Humidity: %.2f - Very dry weather\n", data[i].humidity);
+			fprintf(logFile, "   Humidity: %.2f - Dry weather\n", data[i].humidity);
 		}
         	
         	if (data[i].windspeed >= 25){
-        		fprintf(logFile, "   Windspeed: %.2f - Very Windy weather\n", data[i].windspeed);
+        		fprintf(logFile, "   Windspeed: %.2f - Stormy weather\n", data[i].windspeed);
         	}
         fprintf(logFile, "\n");
     	}
