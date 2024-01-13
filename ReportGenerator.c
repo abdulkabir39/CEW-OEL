@@ -2,16 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 #include <cjson/cJSON.h>
+#include "ReportGenerator.h"
 
 #define MAX_ENTRIES 30
 
-struct WeatherData {
-    char datetime[11];
-    float temp;
-    float windspeed;
-    float humidity;
-    char description[50];
-};
+
 
 void calculateAverages(struct WeatherData data[], int size, float *avgTemp, float *avgWindSpeed, float *avgHumidity) {
     float sumTemp = 0, sumWindSpeed = 0, sumHumidity = 0, sumDew = 0;
@@ -108,8 +103,6 @@ int main() {
     calculateAverages(data, dataSize, &avgTemp, &avgWindSpeed, &avgHumidity);
     
     generateTextFile(textFilename, data, dataSize, avgTemp, avgWindSpeed, avgHumidity);
-    printf("Text file generated successfully.\n");
-
     return 0;
 }
 
