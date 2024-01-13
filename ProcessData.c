@@ -2,6 +2,20 @@
 #include <stdlib.h>
 #include <string.h>
 #include <cjson/cJSON.h>
+#include "ProcessData.h" 
+
+void createInitialFile() {
+    FILE *initialFile = fopen("processdata.json", "w");
+
+    if (initialFile == NULL) {
+        perror("Error opening processdata.json");
+        return;
+    }
+
+    fprintf(initialFile, "{ \"result\" : [] }");
+
+    fclose(initialFile);
+}
 
 void retrieveAndWriteData() {
     FILE *raw_file = fopen("unprocessed_data.json", "r");
@@ -72,7 +86,6 @@ void retrieveAndWriteData() {
                 cJSON_AddItemToObject(dayDict, "temp", cJSON_Duplicate(temp, 1));
                 cJSON_AddItemToObject(dayDict, "windspeed", cJSON_Duplicate(windspeed, 1));
                 cJSON_AddItemToObject(dayDict, "humidity", cJSON_Duplicate(humidity, 1));
-  
                 cJSON_AddItemToObject(dayDict, "description", cJSON_Duplicate(description, 1)); 
 
                 // Adding the dictionaries to the Result Array 
@@ -84,6 +97,13 @@ void retrieveAndWriteData() {
 
 
         FILE *processed_file = fopen("processdata.json", "r");
+        
+        if (processed_file == NULL) {
+        // If the file doesn't exist, create it and write the initial format
+        createInitialFile();
+        processed_file = fopen("processdata.json", "r");
+        }
+        
         if (processed_file != NULL) {
             fseek(processed_file, 0, SEEK_END);
             long existingFileSize = ftell(processed_file);
@@ -145,7 +165,7 @@ void retrieveAndWriteData() {
                 printf("ERROR: Memory allocation failed.\n");
             }
         } else {
-            printf("ERROR: Unable to open processed_data.json for reading.\n");
+            printf("ERROR: Unable to open processdata.json for reading.\n");
         }
     } else {
         printf("ERROR: 'days' is not an array in the JSON.\n");
@@ -159,4 +179,3 @@ int main() {
     retrieveAndWriteData();
     return 0;
 }
-
